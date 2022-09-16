@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<purchase>
+  <purchase name="Munkoev" surname="Sasha" userID="4">
+    <date>27.04.2022 15:20</date>
+    <product productID="1">Mouse</product>
+    <count>1</count>
+    <price>12000</price>
+    <totalprice>12000</totalprice>
+  </purchase>
+  <purchase name="Egor" surname="Orlov" userID="5">
+    <date>21.11.2021 13:40</date>
+    <product productID="2">Laptop</product>
+    <count>1</count>
+    <price>80000</price>
+    <totalprice>80000</totalprice>
+  </purchase>
+</purchase>

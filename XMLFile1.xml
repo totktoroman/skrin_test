@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<purchase>
+  <purchase name="Orlov" surname="Egor" userID="5">
+    <date>21.11.2021 13:40</date>
+    <product productID="2">Laptop</product>
+    <count>1</count>
+    <price>50000</price>
+    <totalprice>50000</totalprice>
+  </purchase>
+  <purchase name="Sasha" surname="Munkoev" userID="4">
+    <date>27.04.2022 15:20</date>
+    <product productID="1">Mouse</product>
+    <count>1</count>
+    <price>1000</price>
+    <totalprice>1000</totalprice>
+  </purchase>
+  <purchase name="Ivanov" surname="Ivan" userID="1">
+    <date>15.09.2022 14:40</date>
+    <product productID="1">Mouse</product>
+    <count>10</count>
+    <price>1000</price>
+    <totalprice>10000</totalprice>
+  </purchase>
+  <purchase name="Tok" surname="Roman" userID="3">
+    <date>16.09.2022 00:00</date>
+    <product productID="1">Mouse</product>
+    <count>2</count>
+    <price>1000</price>
+    <totalprice>2000</totalprice>
+  </purchase>
+  <purchase name="Tok" surname="Roman" userID="3">
+    <date>16.09.2022 00:00</date>
+    <product productID="3">Keyboard</product>
+    <count>2</count>
+    <price>3000</price>
+    <totalprice>6000</totalprice>
+  </purchase>
+  <purchase name="Ivanov" surname="Ivan" userID="1">
+    <date>17.09.2022 18:40</date>
+    <product productID="2">Laptop</product>
+    <count>1</count>
+    <price>50000</price>
+    <totalprice>50000</totalprice>
+  </purchase>
+</purchase>
